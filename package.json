@@ -1,0 +1,29 @@
+{
+  "name": "EmailComposer",
+  "version": "1.1.0",
+  "description": "This plugin allows to send email without GET_ACCOUNT permission",
+  "cordova": {
+    "id": "cordova-plugin-email-composer",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pliablepixels/email-composer.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "JC Jee",
+  "license": "MIT"
+}
